@@ -133,16 +133,29 @@ Before informing policy or management decisions with this model, further work al
  
 ## References </br>
 Bobbink, R., Hicks, K., Galloway, J., Spranger, T., Alkemade, R., Ashmore, M., … De Vries, W. (2010). Global assessment of nitrogen deposition effects on terrestrial plant diversity: A synthesis. Ecological Applications, 20(1), 30–59. http://doi.org/10.1890/08-1140.1
+
 Center for International Earth Science Information Network - CIESIN - Columbia University, United Nations Food and Agriculture Programme - FAO, and Centro Internacional de Agricultura Tropical - CIAT. 2005. Gridded Population of 	the World, Version 3 (GPWv3): Population Count Grid. Palisades, NY: NASA Socioeconomic Data and Applications 	Center (SEDAC). http://dx.doi.org/10.7927/H4639MPP. Accessed 30 November 2016
+
 Côté, L., Brown, S., Paré, D., Fyles, J., & Bauhus, J. (2000). Dynamics of carbon and nitrogen mineralization in relation to stand type, stand age and soil texture in the boreal mixedwood. Soil Biology and Biochemistry, 32(8–9), 1079–1090. http://doi.org/10.1016/S0038-0717(00)00017-1
+
 Fenn, M. E., Poth, M. A., Aber, J. D., Baron, J. S., Bormann, B. T., Johnson, D. W., … Stottlemyer, R. (2016). Nitrogen Excess in North American Ecosystems : Predisposing Factors , Ecosystem Responses , and Management Strategies. Ecological Applications, 8(3), 706–733.
+
 Frey, S. D., Ollinger, S., Nadelhoffer, K., Bowden, R., Brzostek, E., Burton, A., … Wickings, K. (2014). Chronic nitrogen additions suppress decomposition and sequester soil carbon in temperate forests. Biogeochemistry, 121(2), 305–316. http://doi.org/10.1007/s10533-014-0004-0
+
 Gilliam, F. S. (2006). Response of the herbaceous layer of forest ecosystems to excess nitrogen deposition. Journal of Ecology, 94(6), 1176–1191. http://doi.org/10.1111/j.1365-2745.2006.01155.x
+
 Hulot, F. D., Lacroix, G., Lescher-Moutoué, F., & Loreau, M. (2000). Functional diversity governs ecosystem response to nutrient enrichment. Nature, 405(6784), 340–4. http://doi.org/10.1038/35012591
+
 Kemmitt, S. J., Wright, D., Goulding, K. W. T., & Jones, D. L. (2006). pH regulation of carbon and nitrogen dynamics in two agricultural soils. Soil Biology and Biochemistry, 38(5), 898–911. http://doi.org/10.1016/j.soilbio.2005.08.006
+
 Lavoie, M., Mack, M. C., & Schuur, E. A. G. (2011). Effects of elevated nitrogen and temperature on carbon and nitrogen dynamics in Alaskan arctic and boreal soils. Journal of Geophysical Research: Biogeosciences, 116(3), 1–14. http://doi.org/10.1029/2010JG001629
+
 McKane, R. B., Johnson, L. C., Shaver, G. R., Nadelhoffer, K. J., Rastetter, E. B., Fry, B., … Murray, G. (2002). Resource-based niches provide a basis for plant species diversity and dominance in arctic tundra. Nature, 415(6867), 68–71. http://doi.org/10.1038/415068a
+
 Rohde, K. (1992). Latitudinal Gradients in Species Diversity : The Search for the Primary Cause. Oikos, 65(3), 514–527.
+
 Spiegelhalter, D. J., Best, N. G., Carlin, B. P., & van der Linde, A. (2002). Bayesian Measures of Model Complexity and Fit. Journal of the Royal Statistical Society Series B (Statistical Methodology), 64(4), 583–639. http://doi.org/10.1111/1467-9868.00353
+
 Strengbom, J., Nordin, A., Näsholm, T., & Ericson, L. (2001). Slow recovery of boreal forest ecosystem following decreased nitrogen input. Functional Ecology, 15(4), 451–457. http://doi.org/10.1046/j.0269-8463.2001.00538.x
+
 Tilman, D; Isbell, F. (2015). Recovery as nitrogen declines. Nature, 528, 336–337.
